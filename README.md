@@ -8,6 +8,9 @@ watch-all-gh-org-repos (wagor)
 watch-all-gh-org-repos (wagor) is a command line interface to watch all GitHub
 organization / user repos.
 
+If you're trying to do the opposite, unwatch all GitHub org repos, try its
+enemy, [ugor](https://github.com/gedex/unwatch-gh-org-repos).
+
 ## Install
 
 ```
