@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "description": "CLI to watch all GitHub organization's repos",
   "bin": {
-    "ugor": "bin/wagor"
+    "wagor": "bin/wagor"
   },
   "main": "lib/index.js",
   "scripts": {
