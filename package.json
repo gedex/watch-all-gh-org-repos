@@ -1,6 +1,6 @@
 {
   "name": "watch-all-gh-org-repos",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "CLI to watch all GitHub organization's repos",
   "bin": {
     "wagor": "bin/wagor"
