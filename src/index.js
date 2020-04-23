@@ -3,7 +3,7 @@
  */
 import chalk from 'chalk';
 import cli from 'commander';
-import Client from 'github';
+import Client from '@octokit/rest';
 import Promise from 'bluebird';
 import read from 'read';
 import Table from 'cli-table';
